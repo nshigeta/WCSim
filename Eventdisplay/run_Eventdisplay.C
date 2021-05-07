@@ -1,5 +1,5 @@
 
-const char* filename = "/home/shigeta/WCSim/WCSim_rootfile/WCTE_mu-_200MeV_20events.root";
+const char* filename = "";
 
 WCSimRootEvent *wcsimrootevent;
 WCSimRootGeom *wcsimrootgeom;
